@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration:underline;
+}
+button{
+    width: 100%;
+}
+button:hover{
+    width: 100%;
+    background-color: #6c757d;
+}
+body{
+    background-color: #18191A;
+}
+h4{
+    color: white;
+}
+/* input{
+    background-color: #3A3B3C;
+    color: white;
+} */
